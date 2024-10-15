@@ -28,7 +28,7 @@ I am a DevOps Engineer with over 3 years of experience in Linux system administr
 - Automated critical infrastructure management tasks, resulting in a 25% reduction in downtime.
 
 ## 📂 My Repositories
-- [Project 1](https://github.com/your-username/repo-1): Description of Project 1
+- [Project 1](https://github.com/Suryavanshi98/url-shotener): A simple URL shortener written in Go
 - [Project 2](https://github.com/your-username/repo-2): Description of Project 2
 - [Project 3](https://github.com/your-username/repo-3): Description of Project 3
 
